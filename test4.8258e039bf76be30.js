@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwra10_2023"]=self["webpackChunkwra10_2023"]||[]).push([[937],{6007:function(t,r,e){e.r(r),e.d(r,{default:function(){return f}});var n=e(700);const u={src:"http://211.23.16.134:8088/old/gates2.html",width:"100%",height:"95%"};function a(t,r){return(0,n.uX)(),(0,n.CE)("iframe",u)}var c=e(5253);const s={},h=(0,c.A)(s,[["render",a]]);var f=h}}]);
+//# sourceMappingURL=test4.8258e039bf76be30.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwra10_2023"]=self["webpackChunkwra10_2023"]||[]).push([[555],{2359:function(r,t,n){n.r(t),n.d(t,{default:function(){return i}});var a=n(700);const e={src:"http://211.23.16.134:8088/old/ChartYansantziWater.aspx",width:"100%",height:"95%"};function u(r,t){return(0,a.uX)(),(0,a.CE)("iframe",e)}var s=n(5253);const c={},h=(0,s.A)(c,[["render",u]]);var i=h}}]);
+//# sourceMappingURL=test6.b0e50b69a063aec1.js.map

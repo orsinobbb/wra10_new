@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwra10_2023"]=self["webpackChunkwra10_2023"]||[]).push([[746],{3541:function(r,e,t){t.r(e),t.d(e,{default:function(){return h}});var n=t(700);const u={src:"http://211.23.16.134:8088/old/BuildCheckView4.aspx",width:"100%",height:"95%"};function a(r,e){return(0,n.uX)(),(0,n.CE)("iframe",u)}var c=t(5253);const i={},s=(0,c.A)(i,[["render",a]]);var h=s}}]);
+//# sourceMappingURL=test7.b54728ac580cfcc2.js.map
