@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwra10_2023"]=self["webpackChunkwra10_2023"]||[]).push([[781],{3130:function(r,t,e){e.r(t),e.d(t,{default:function(){return i}});var n=e(700);const a={src:"http://211.23.16.134:8088/old/WaterProofView.aspx",width:"100%",height:"95%"};function u(r,t){return(0,n.uX)(),(0,n.CE)("iframe",a)}var c=e(5253);const s={},f=(0,c.A)(s,[["render",u]]);var i=f}}]);
+//# sourceMappingURL=test8.e741e40bc25666c8.js.map

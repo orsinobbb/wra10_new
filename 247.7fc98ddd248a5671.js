@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkwra10_2023"]=self["webpackChunkwra10_2023"]||[]).push([[247],{4466:function(e,t,a){a.r(t),a.d(t,{default:function(){return d}});var n=a(700),r=a(672);const u={id:"app"};var c=(0,n.pM)({__name:"index",setup(e){return(e,t)=>((0,n.uX)(),(0,n.CE)("div",u,[(0,n.bF)(r.A,{title:""})]))}}),s=a(5253);const p=(0,s.A)(c,[["__scopeId","data-v-015c3c82"]]);var d=p}}]);
-//# sourceMappingURL=247.7fc98ddd248a5671.js.map
